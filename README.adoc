@@ -1,0 +1,5 @@
+= Basic alternative Rust allocator
+
+Linux x86_64 only.
+
+Each allocation becomes a new memory mapping.
